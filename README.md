@@ -5,3 +5,5 @@
 
 import DLL error for tensorflow gpu
 https://github.com/tensorflow/tensorflow/issues/27816
+
+[Final Project](https://nbviewer.jupyter.org/github/rex662624/PythonMLDL/blob/master/Final_project/face.ipynb?fbclid=IwAR2LZ3XO4OCs5GEHzUH0zXVhOg0X4vjd9F1hRsq8JvQ4du3cU2OfWD0kVwc)
