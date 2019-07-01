@@ -5,5 +5,6 @@
 - [Final Project](https://nbviewer.jupyter.org/github/rex662624/PythonMLDL/blob/master/Final_project/face.ipynb?fbclid=IwAR2LZ3XO4OCs5GEHzUH0zXVhOg0X4vjd9F1hRsq8JvQ4du3cU2OfWD0kVwc): Face recognition for korean star, and real-time face recognition.
 
 
-import DLL error for tensorflow gpu
-https://github.com/tensorflow/tensorflow/issues/27816
+[import DLL error for tensorflow gpu](https://github.com/tensorflow/tensorflow/issues/27816)
+
+[how to chanfe Anaconda Prompt user path](https://stackoverflow.com/questions/48304305/anaconda-python-change-anaconda-prompt-user-path)
