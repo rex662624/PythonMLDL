@@ -1,5 +1,7 @@
 # PythonMLDL
 
+This is the python, machine learning and deep learning course during 2019 spring.
+
 ## Course
 
 - [video](https://www.youtube.com/playlist?list=PLQZfZKhc0kiAn7xGZ-WKkwQyseO8SbVR0&fbclid=IwAR2sf_T9LeO6eJ405ByQSmHx6EKNyK-nVCgNTYOg486u2hJ93BN827K4LuM)
@@ -10,4 +12,4 @@
 
 [import DLL error for tensorflow gpu](https://github.com/tensorflow/tensorflow/issues/27816)
 
-[how to chanfe Anaconda Prompt user path](https://stackoverflow.com/questions/48304305/anaconda-python-change-anaconda-prompt-user-path)
+[how to change Anaconda Prompt user path](https://stackoverflow.com/questions/48304305/anaconda-python-change-anaconda-prompt-user-path)
